@@ -44,7 +44,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Delivery CRUD**](https://github.com/diazzjn/NOME_DO_REPO) | Sistema estilo iFood com Cliente, Loja, Entregador e Pedido | Go |
+| [**Delivery CRUD**](https://github.com/diazzjn/CRUD-ALGORITIMOS-E-PROGRAMA-O.git) | Sistema estilo iFood com Cliente, Loja, Entregador e Pedido | Go |
 | [**Projeto PY**](https://diazzjn.github.io/Site-Law-Core/) | Tradutor de termos e politica de privacidade | PY |
 
 ## 📊 Estatísticas
