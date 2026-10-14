@@ -41,7 +41,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Delivery CRUD**](https://github.com/diazzjn/NOME_DO_REPO) | Sistema estilo iFood com Cliente, Loja, Entregador e Pedido | Go |
-| [**Projeto PY**]([https://github.com/diazzjn/](https://diazzjn.github.io/Site-Law-Core/)) | Descreva em uma linha o que ele faz | Java |
+| [**Projeto PY**]([https://github.com/diazzjn/](https://diazzjn.github.io/Site-Law-Core/)) | Descreva em uma linha o que ele faz | PY |
 
 ## 📊 Estatísticas
 
